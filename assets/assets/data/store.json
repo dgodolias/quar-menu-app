@@ -1,0 +1,280 @@
+{
+  "storeName": "Bronx Cafe",
+  "categories": {
+    "category_1": {
+      "name": "Κρέπες",
+      "subcategories": {
+        "subcategory_1": {
+          "name": "Γλυκές",
+          "items": {
+            "item_1": {
+              "name": "Κρέπα Nutella",
+              "description": "Με Nutella και μπανάνα",
+              "price": "Από 3,50€",
+              "image": null
+            },
+            "item_2": {
+              "name": "Κρέπα φράουλα",
+              "description": "Με φράουλα και κρέμα",
+              "price": "Από 3,80€",
+              "image": null
+            },
+            "item_3": {
+              "name": "Κρέπα σοκολάτα",
+              "description": "Με σοκολάτα και παγωτό",
+              "price": "Από 4,00€",
+              "image": null
+            }
+          }
+        },
+        "subcategory_2": {
+          "name": "Αλμυρές",
+          "items": {
+            "item_1": {
+              "name": "Κρέπα ζαμπόν τυρί",
+              "description": "Με ζαμπόν και τυρί",
+              "price": "Από 3,20€",
+              "image": null
+            },
+            "item_2": {
+              "name": "Κρέπα κοτόπουλο",
+              "description": "Με κοτόπουλο και μανιτάρια",
+              "price": "Από 4,50€",
+              "image": null
+            },
+            "item_3": {
+              "name": "Κρέπα τόνος",
+              "description": "Με τόνο και μαγιονέζα",
+              "price": "Από 3,80€",
+              "image": null
+            }
+          }
+        }
+      }
+    },
+    "category_2": {
+      "name": "Σάντουιτς",
+      "items": {
+        "item_1": {
+          "name": "Σάντουιτς φούρνου",
+          "description": "2 αυγά, μπέικον, κοτόπουλο πανέ, gouda, ντομάτα, μαρούλι",
+          "price": "8,50€",
+          "image": null
+        },
+        "item_2": {
+          "name": "Club Sandwich",
+          "description": "Κοτόπουλο, μπέικον, τυρί, ντομάτα",
+          "price": "7,50€",
+          "image": null
+        }
+      }
+    },
+    "category_3": {
+      "name": "Σφολιάτες",
+      "subcategories": {
+        "subcategory_1": {
+          "name": "Γλυκές",
+          "items": {
+            "item_1": {
+              "name": "Μπουγάτσα κρέμα",
+              "description": "Παραδοσιακή μπουγάτσα με κρέμα",
+              "price": "Από 2,30€",
+              "image": null
+            },
+            "item_2": {
+              "name": "Μπουγάτσα τυρί",
+              "description": "Με γλυκό τυρί και κανέλα",
+              "price": "Από 2,50€",
+              "image": null
+            }
+          }
+        },
+        "subcategory_2": {
+          "name": "Αλμυρές",
+          "items": {
+            "item_1": {
+              "name": "Κοτόπιτα",
+              "description": "Σε ζύμη καλαμποκιού με κρέμα τυριών",
+              "price": "2,20€",
+              "image": null
+            },
+            "item_2": {
+              "name": "Τυρόπιτα",
+              "description": "Παραδοσιακή τυρόπιτα με φέτα",
+              "price": "2,00€",
+              "image": null
+            }
+          }
+        }
+      }
+    },
+    "category_4": {
+      "name": "Καφέδες",
+      "subcategories": {
+        "subcategory_1": {
+          "name": "Ζεστοί",
+          "items": {
+            "item_1": {
+              "name": "Espresso",
+              "description": "Κλασικός espresso με πλούσια γεύση",
+              "price": "Από 1,70€",
+              "image": null
+            },
+            "item_2": {
+              "name": "Cappuccino",
+              "description": "Espresso με αφρόγαλα και κανέλα",
+              "price": "Από 2,20€",
+              "image": null
+            },
+            "item_3": {
+              "name": "Latte",
+              "description": "Διπλός cappuccino με περισσότερο γάλα",
+              "price": "Από 2,40€",
+              "image": null
+            },
+            "item_4": {
+              "name": "Flat White",
+              "description": "Διπλός espresso με μικροαφρόγαλα",
+              "price": "Από 2,40€",
+              "image": null
+            },
+            "item_5": {
+              "name": "Ελληνικός",
+              "description": "Παραδοσιακός ελληνικός καφές",
+              "price": "Από 2,00€",
+              "image": null
+            },
+            "item_6": {
+              "name": "Φίλτρου",
+              "description": "Καφές φίλτρου παραδοσιακός",
+              "price": "Από 2,10€",
+              "image": null
+            }
+          }
+        },
+        "subcategory_2": {
+          "name": "Κρύοι",
+          "items": {
+            "item_1": {
+              "name": "Freddo Espresso",
+              "description": "Διπλός espresso με πάγο",
+              "price": "Από 2,30€",
+              "image": null
+            },
+            "item_2": {
+              "name": "Freddo Cappuccino",
+              "description": "Διπλός cappuccino με πάγο",
+              "price": "Από 2,40€",
+              "image": null
+            },
+            "item_3": {
+              "name": "Iced Latte",
+              "description": "Freddo cappuccino με περισσότερο γάλα",
+              "price": "Από 2,40€",
+              "image": null
+            },
+            "item_4": {
+              "name": "Frappe",
+              "description": "Ελληνικός αφρώδης καφές με πάγο",
+              "price": "Από 2,00€",
+              "image": null
+            },
+            "item_5": {
+              "name": "Iced Coffee",
+              "description": "Στιγμιαίος καφές κρύος",
+              "price": "Από 2,00€",
+              "image": null
+            }
+          }
+        }
+      }
+    },
+    "category_5": {
+      "name": "Ροφήματα",
+      "items": {
+        "item_1": {
+          "name": "Σοκολάτα",
+          "description": "Ζεστή σοκολάτα με κρέμα",
+          "price": "Από 2,30€",
+          "image": null
+        },
+        "item_2": {
+          "name": "Τσάι",
+          "description": "Κλασικό τσάι σε διάφορες γεύσεις",
+          "price": "Από 1,90€",
+          "image": null
+        },
+        "item_3": {
+          "name": "Φυσικός χυμός πορτοκάλι",
+          "description": "Φρεσκοστυμμένος χυμός πορτοκάλι",
+          "price": "Από 2,20€",
+          "image": null
+        }
+      }
+    },
+    "category_6": {
+      "name": "Αναψυκτικά",
+      "items": {
+        "item_1": {
+          "name": "Mogu Mogu μαύρο φραγκοστάφυλο",
+          "description": "Χυμός με κομμάτια φρούτων 320ml",
+          "price": "2,50€",
+          "image": null
+        },
+        "item_2": {
+          "name": "Mogu Mogu bubble gum",
+          "description": "Χυμός με γεύση τσίχλας 320ml",
+          "price": "2,50€",
+          "image": null
+        },
+        "item_3": {
+          "name": "Mogu Mogu μαλλί της γριάς",
+          "description": "Χυμός γλυκό βαμβάκι 320ml",
+          "price": "2,50€",
+          "image": null
+        },
+        "item_4": {
+          "name": "Mogu Mogu πεπόνι",
+          "description": "Χυμός με κομμάτια πεπονιού 320ml",
+          "price": "3,20€",
+          "image": null
+        },
+        "item_5": {
+          "name": "Mogu Mogu ανανάς",
+          "description": "Χυμός με κομμάτια ανανά 320ml",
+          "price": "2,50€",
+          "image": null
+        },
+        "item_6": {
+          "name": "Mogu Mogu μάνγκο",
+          "description": "Χυμός με κομμάτια μάνγκο 320ml",
+          "price": "2,50€",
+          "image": null
+        },
+        "item_7": {
+          "name": "Hell classic",
+          "description": "Ενεργειακό ποτό 250ml",
+          "price": "1,50€",
+          "image": null
+        }
+      }
+    },
+    "category_7": {
+      "name": "Μπύρες",
+      "items": {
+        "item_1": {
+          "name": "Άλφα",
+          "description": "Κλασική ελληνική μπύρα 330ml",
+          "price": "2,50€",
+          "image": null
+        },
+        "item_2": {
+          "name": "Μύθος",
+          "description": "Ελληνική μπύρα premium 330ml",
+          "price": "3,00€",
+          "image": null
+        }
+      }
+    }
+  }
+}
