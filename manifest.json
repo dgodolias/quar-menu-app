@@ -1,11 +1,11 @@
 {
-    "name": "quar_menu_app",
-    "short_name": "quar_menu_app",
+    "name": "QuaR",
+    "short_name": "QuaR",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#B08D57",
+    "theme_color": "#B08D57",
+    "description": "QuaR Menu App - Digital Menu Solution",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

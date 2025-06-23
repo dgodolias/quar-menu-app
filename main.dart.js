@@ -66482,7 +66482,7 @@ r=s==null
 n=p.a1N(m,i,r?q:s.ot(B.i,14,B.bg),n).IC(B.dN,B.aH)
 m=r?q:s.a1L(B.i,A.aAa().$0().d,B.al)
 n=A.afP(l,B.M,new A.lB(q,B.i,q,q,2,B.k8,new A.cJ(k,B.o)),new A.lH(B.M,B.bX,B.i,q,q,q,q,q,q,B.bX,B.i,q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.Ek,B.i,q,q,B.i,B.aH,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.fz,B.aH),new A.lP(B.fB,1,1,q,q),new A.ov(A.air(q,q,B.bX,q,q,q,q,q,q,q,B.i,q,q,B.zZ,q,new A.cJ(A.jV(8),B.o),q,q,q,m,q)),o,j,B.bX,B.fz,n,q)
-return new A.uT(B.AX,A.ar(["/menu",new A.a0H()],t.N,t.Ab),"QuAR \u039c\u03b5\u03bd\u03bf\u03cd",n,!1,q)}}
+return new A.uT(B.AX,A.ar(["/menu",new A.a0H()],t.N,t.Ab),"QuaR.gr - Menu",n,!1,q)}}
 A.a0H.prototype={
 $1(a){return B.Eq},
 $S:430}
